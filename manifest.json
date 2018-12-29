@@ -1,0 +1,23 @@
+{
+  "name": "__MSG_extensionName__",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "__MSG_extensionDesc__",
+  "default_locale":"zh_CN",
+  "browser_action": {
+    "default_icon": {
+      "19": "image/icon19.png",
+      "38": "image/icon38.png"
+    },
+    "default_title": "__MSG_extensionTitle__",
+    "default_popup": "html/popup.html"
+  },
+  "icons": {
+    "16": "image/icon16.png",
+    "48": "image/icon48.png",
+    "128": "image/icon128.png"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}

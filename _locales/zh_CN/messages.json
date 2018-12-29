@@ -1,0 +1,21 @@
+{
+  "extensionDesc": {
+    "message": "自动保存浏览器Tab信息",
+    "description": "用于插件的description字段，描述工具用途。"
+  },
+  "extensionName": {
+    "message": "自动保存浏览器Tab信息name字段"
+  },
+  "extensionTitle": {
+    "message": "自动保存浏览器Tab信息",
+    "description": "用于browser action的default title字段"
+  },
+  "phoneNumber": {
+    "message": "字段1",
+    "description": ""
+  },
+  "searchResult": {
+    "message": "字段2：",
+    "description": ""
+  }
+}
